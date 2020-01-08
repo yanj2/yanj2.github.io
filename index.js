@@ -100,7 +100,7 @@ function replaceUrls(text) {
 Typer.speed=3;
 Typer.file="mir.txt"; // add your own name here
 Typer.init();
- 
+console.log(Typer.text);
 var timer = setInterval("t();", 30);
 function t() {
 	Typer.addText({"keyCode": 123748});
