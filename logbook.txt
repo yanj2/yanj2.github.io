@@ -1,25 +1,25 @@
 Last updated: 10 hours ago 
 
-<span id="a">mir</span>:<span id="b">~</span><span id="c">$</span> cd Training_Missions/<!-- laglaglaglaglaglag -->Dauntless
-<span id="a">mir</span>:<span id="b">~</span><span id="c">$</span> vim <!-- laglaglaglaglaglaglaglaglag -->report101.txt<br/>
+<span id="a">mir</span>:<span id="b">~</span><span id="c">$</span> cd Training_Missions/<!-- laglaglaglaglaglag -->Logbook
+<span id="a">mir</span>:<span id="b">~</span><span id="c">$</span> vim <!-- laglaglaglaglaglaglaglaglag -->remark0000.txt<br/>
 
-According to preliminary investigations, <!-- laglaglaglaglaglaglaglaglag --> there appears to be unauthorised hourly transmissions being made from the ship. 
 
-<!-- laglaglaglaglaglaglaglaglaglaglaglag -->I have been able to intercept fragments of the data packets being sent, but have been unsuccessful in discerning it's destination. 
+<span id="a">mir</span>:<span id="b">~</span><span id="c">$</span> vim <!-- laglaglaglaglaglaglaglaglag -->remark0001.txt<br/>
 
-<!-- laglaglaglaglaglaglaglaglaglaglaglag -->Based on my experiences handling imperial tech languages, the transmission being made is likely to be xenos in nature. 
 
-<!-- laglaglaglaglaglaglaglaglaglaglaglag -->Further investigation is needed to pinpoint the whereabouts of the transmitting device and the origins of its' technology.
+<span id="a">mir</span>:<span id="b">~</span><span id="c">$</span> vim <!-- laglaglaglaglaglaglaglaglag -->remark0010.txt<br/>
 
-Details can be found here...<a href="logbook"> logbook </a><i>(Last updated 10 hours ago)</i>.<!-- delaydelaydelaydelaydelaydelaydelay --><br/>
 
-<span id="a">mir</span>:<span id="b">~</span><span id="c">$</span> scp <!-- laglaglaglaglaglaglaglaglag -->report.txt root@256.64.16.2
-<span id="a">mir</span>:<span id="b">~</span><span id="c">$</span> logout <!-- laglaglaglaglaglaglaglaglag -->
+<span id="a">mir</span>:<span id="b">~</span><span id="c">$</span> vim <!-- laglaglaglaglaglaglaglaglag -->remark0011.txt<br/>
 
-Saving session...
-...copying shared history...
-...saving history...truncating history files...
-...completed.
-Deleting expired sessions...105 completed.
 
-[Process completed]
+<span id="a">mir</span>:<span id="b">~</span><span id="c">$</span> vim <!-- laglaglaglaglaglaglaglaglag -->remark0100.txt<br/>
+
+
+<span id="a">mir</span>:<span id="b">~</span><span id="c">$</span> vim <!-- laglaglaglaglaglaglaglaglag -->remark0101.txt<br/>
+
+
+<span id="a">mir</span>:<span id="b">~</span><span id="c">$</span> vim <!-- laglaglaglaglaglaglaglaglag -->remark0110.txt<br/>
+
+
+<span id="a">mir</span>:<span id="b">~</span><span id="c">$</span> vim <!-- laglaglaglaglaglaglaglaglag -->remark0111.txt<br/>
