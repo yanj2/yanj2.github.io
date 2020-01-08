@@ -13,3 +13,10 @@ You can also give your email ID for contacting you<!-- slightdelayhere-->, feel 
 
 <span id="a">mir</span>:<span id="b">~</span><span id="c">$</span> scp <!-- laglaglaglaglaglaglaglaglag -->report.txt root@112.20.10.8<br/><br/>
 <span id="a">mir</span>:<span id="b">~</span><span id="c">$</span> logout
+Saving session...
+...copying shared history...
+...saving history...truncating history files...
+...completed.
+Deleting expired sessions...105 completed.
+
+[Process completed]
