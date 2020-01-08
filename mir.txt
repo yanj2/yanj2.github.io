@@ -7,11 +7,11 @@ According to preliminary investigations, <!-- laglaglaglaglaglaglaglaglag --> th
 
 <!-- laglaglaglaglaglaglaglaglaglaglaglag -->I have been able to intercept fragments of the data packets being sent, but have been unsuccessful in discerning it's destination. 
 
-<!-- laglaglaglaglaglaglaglaglaglaglaglag -->Based on my experience with various tech languages, the transmission being made is xenos in nature. 
+<!-- laglaglaglaglaglaglaglaglaglaglaglag -->Based on my experiences handling imperial tech languages, the transmission being made is likely to be xenos in nature. 
 
 <!-- laglaglaglaglaglaglaglaglaglaglaglag -->Further investigation is needed to pinpoint the whereabouts of the transmitting device and the origins of its' technology.
 
-Details can be found here...<a href="link"> logbook </a><i>(Last updated 10 hours ago)</i>.<!-- delaydelaydelaydelaydelaydelaydelay -->
+Details can be found here...<a href="link"> logbook </a><i>(Last updated 10 hours ago)</i>.<!-- delaydelaydelaydelaydelaydelaydelay --><br/>
 
 <span id="a">mir</span>:<span id="b">~</span><span id="c">$</span> scp <!-- laglaglaglaglaglaglaglaglag -->report.txt root@256.64.16.2
 <span id="a">mir</span>:<span id="b">~</span><span id="c">$</span> logout <!-- laglaglaglaglaglaglaglaglag -->
