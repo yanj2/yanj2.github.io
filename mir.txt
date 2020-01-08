@@ -3,9 +3,15 @@ Last login: 3652921.M41 on Dauntless0110
 <span id="a">mir</span>:<span id="b">~</span><span id="c">$</span> cd Training_Missions/<!-- laglaglaglaglaglag -->Dauntless
 <span id="a">mir</span>:<span id="b">~</span><span id="c">$</span> vim <!-- laglaglaglaglaglaglaglaglag -->report101.txt<br/>
 
-According to preliminary investigations, <!-- bitlagbitlagbitlagbitlagbitlagbitlag --> there appears to be xenos technology onboard this ship making hourly transmissions. 
-<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
-<p>Logs relevant to the investigation can be found here...<a href="link"> logbook </a><i>(Last updated 10 hours ago)</i>.</p><!-- delaydelaydelaydelaydelaydelaydelay -->
+According to preliminary investigations, <!-- laglaglaglaglaglaglaglaglag --> there appears to be unauthorised hourly transmissions being made from the ship. 
+
+<!-- laglaglaglaglaglaglaglaglaglaglaglag -->I have been able to intercept fragments of the data packets being sent, but have been unsuccessful in discerning it's destination. 
+
+<!-- laglaglaglaglaglaglaglaglaglaglaglag -->Based on my experience with various tech languages, the transmission being made is xenos in nature. 
+
+<!-- laglaglaglaglaglaglaglaglaglaglaglag -->Further investigation is needed to pinpoint the whereabouts of the transmitting device and the origins of its' technology.
+
+Details can be found here...<a href="link"> logbook </a><i>(Last updated 10 hours ago)</i>.<!-- delaydelaydelaydelaydelaydelaydelay -->
 
 <span id="a">mir</span>:<span id="b">~</span><span id="c">$</span> scp <!-- laglaglaglaglaglaglaglaglag -->report.txt root@256.64.16.2
 <span id="a">mir</span>:<span id="b">~</span><span id="c">$</span> logout <!-- laglaglaglaglaglaglaglaglag -->
