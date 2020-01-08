@@ -11,7 +11,7 @@ According to preliminary investigations, <!-- laglaglaglaglaglaglaglaglag --> th
 
 <!-- laglaglaglaglaglaglaglaglaglaglaglag -->Further investigation is needed to pinpoint the whereabouts of the transmitting device and the origins of its' technology.
 
-Details can be found here...<a href="link"> logbook </a><i>(Last updated 10 hours ago)</i>.<!-- delaydelaydelaydelaydelaydelaydelay --><br/>
+Details can be found here...<a href="logbook"> logbook </a><i>(Last updated 10 hours ago)</i>.<!-- delaydelaydelaydelaydelaydelaydelay --><br/>
 
 <span id="a">mir</span>:<span id="b">~</span><span id="c">$</span> scp <!-- laglaglaglaglaglaglaglaglag -->report.txt root@256.64.16.2
 <span id="a">mir</span>:<span id="b">~</span><span id="c">$</span> logout <!-- laglaglaglaglaglaglaglaglag -->
