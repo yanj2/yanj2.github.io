@@ -3,27 +3,24 @@ Last updated: 10 hours ago
 <span id="a">mir</span>:<span id="b">~</span><span id="c">$</span> cd Training_Missions/<!-- laglaglaglaglaglag -->Logbook
 <span id="a">mir</span>:<span id="b">~</span><span id="c">$</span> vim <!-- laglaglaglaglaglaglaglaglag -->remark0000.txt<br/>
 
-Arrived on board the Dauntless. Beginning initial assessments for future comparisons.  
+Arrived on board the Dauntless. Beginning initial assessments for future comparisons.  <br/>
 
 <span id="a">mir</span>:<span id="b">~</span><span id="c">$</span> vim <!-- laglaglaglaglaglaglaglaglag -->remark0001.txt<br/>
 
-20% of ship maintenance check complete. Gun batteries have been checked and tuned. Upgrades have been installed since the last check. 
+20% of ship maintenance check complete. Gun batteries have been checked and tuned. Upgrades have been installed since the last check. <br/>
 
 <span id="a">mir</span>:<span id="b">~</span><span id="c">$</span> vim <!-- laglaglaglaglaglaglaglaglag -->remark0010.txt<br/>
 
-35% of ship maintenance check complete. Servers seem to be <del>suboptimally tuned...</del> fine. 
+35% of ship maintenance check complete. Servers operating within acceptable range of capacity<br/>
 
 <span id="a">mir</span>:<span id="b">~</span><span id="c">$</span> vim <!-- laglaglaglaglaglaglaglaglag -->remark0011.txt<br/>
 
-
+52% of ship mainenance check complete. Database query speed is acceptable. Database capacity is adequately below regulation limits. Database security has not been breached since last check.<br/>
 
 <span id="a">mir</span>:<span id="b">~</span><span id="c">$</span> vim <!-- laglaglaglaglaglaglaglaglag -->remark0100.txt<br/>
 
+89% of ship maintenance check complete. Roughly once an hour, network traffic spikes unusually and is 0.2% outside of acceptable bounds. A comparison will be made against historical data from predictive maintenance checks.<br/>
 
 <span id="a">mir</span>:<span id="b">~</span><span id="c">$</span> vim <!-- laglaglaglaglaglaglaglaglag -->remark0101.txt<br/>
 
-
-<span id="a">mir</span>:<span id="b">~</span><span id="c">$</span> vim <!-- laglaglaglaglaglaglaglaglag -->remark0110.txt<br/>
-
-
-<span id="a">mir</span>:<span id="b">~</span><span id="c">$</span> vim <!-- laglaglaglaglaglaglaglaglag -->remark0111.txt<br/>
+The spikes were not present in the historical sheets. Intercepted transmissions indicate coded language. In all my training, I have never seen this particular pattern of language. My tech is unable to match it's pattern to known Imperial tech languages.<br/>
