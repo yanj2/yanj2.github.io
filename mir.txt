@@ -1,11 +1,13 @@
+Last login: 3652921.M41 on Dauntless0110
+
 <span id="a">mir</span>:<span id="b">~</span><span id="c">$</span> cd Training_Missions/<!-- laglaglaglaglaglag -->Dauntless
-<span id="a">mir</span>:<span id="b">~</span><span id="c">$</span> vim <!-- laglaglaglaglaglaglaglaglag -->report.txt<br/><br/>
+<span id="a">mir</span>:<span id="b">~</span><span id="c">$</span> vim <!-- laglaglaglaglaglaglaglaglag -->report101.txt<br/>
 
-According to preliminary investigations, <!-- bitlagbitlagbitlagbitlagbitlagbitlag --> there appears to be xenos technology onboard this ship making scheduled hourly transmissions. 
+According to preliminary investigations, <!-- bitlagbitlagbitlagbitlagbitlagbitlag --> there appears to be xenos technology onboard this ship making hourly transmissions. 
 <!-- laglaglaglaglaglaglaglaglaglaglaglag -->
-<p>Logs of my investigation can be found here...<a href="link"> log </a><i>(Last updated 10 hours ago)</i> .</p><!-- delaydelaydelaydelaydelaydelaydelay -->
+<p>Logs relevant to the investigation can be found here...<a href="link"> logbook </a><i>(Last updated 10 hours ago)</i>.</p><!-- delaydelaydelaydelaydelaydelaydelay -->
 
-<span id="a">mir</span>:<span id="b">~</span><span id="c">$</span> scp <!-- laglaglaglaglaglaglaglaglag -->report.txt root@112.20.10.8<br/><br/>
+<span id="a">mir</span>:<span id="b">~</span><span id="c">$</span> scp <!-- laglaglaglaglaglaglaglaglag -->report.txt root@256.64.16.2
 <span id="a">mir</span>:<span id="b">~</span><span id="c">$</span> logout <!-- laglaglaglaglaglaglaglaglag -->
 
 Saving session...
