@@ -3,14 +3,18 @@ Last updated: 10 hours ago
 <span id="a">mir</span>:<span id="b">~</span><span id="c">$</span> cd Training_Missions/<!-- laglaglaglaglaglag -->Logbook
 <span id="a">mir</span>:<span id="b">~</span><span id="c">$</span> vim <!-- laglaglaglaglaglaglaglaglag -->remark0000.txt<br/>
 
+Arrived on board the Dauntless. Beginning initial assessments for future comparisons.  
 
 <span id="a">mir</span>:<span id="b">~</span><span id="c">$</span> vim <!-- laglaglaglaglaglaglaglaglag -->remark0001.txt<br/>
 
+20% of ship maintenance check complete. Gun batteries have been checked and tuned. Upgrades have been installed since the last check. 
 
 <span id="a">mir</span>:<span id="b">~</span><span id="c">$</span> vim <!-- laglaglaglaglaglaglaglaglag -->remark0010.txt<br/>
 
+35% of ship maintenance check complete. Servers seem to be <del>suboptimally tuned...</del> fine. 
 
 <span id="a">mir</span>:<span id="b">~</span><span id="c">$</span> vim <!-- laglaglaglaglaglaglaglaglag -->remark0011.txt<br/>
+
 
 
 <span id="a">mir</span>:<span id="b">~</span><span id="c">$</span> vim <!-- laglaglaglaglaglaglaglaglag -->remark0100.txt<br/>
